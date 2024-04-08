@@ -1,1 +1,1 @@
-export const BotName = 'MilliyMOYKA';
+export const BOT_NAME = 'Stadium varify bot';
